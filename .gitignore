@@ -1,0 +1,22 @@
+# Prevent large video files from being added to Git
+
+
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# Temp/cache folders
+*.tmp
+.cache/
+dist/
+
+# VSCode settings
+.vscode/
+
+# Node modules (if using Node.js)
+node_modules/
+
+# PHP Composer
+vendor/
